@@ -5,15 +5,15 @@ body{
     background-color: white;
 }
 .total {
-    border: solid black 3px;
+    border: solid black 6px;
     background-color: black;
 }
 .navBar {
     display: flex;
     justify-content: flex-start;
-    background-color: #FFEE99;
-    border: solid black 6px;
-    border-radius: 1.9%;
+    background-color: #ffeebb;
+    border: solid black 3px;
+    border-radius: 7pt;
     height: 12vh;
     font-size: 1.09em;
 }
@@ -27,9 +27,9 @@ body{
     margin-left: .5vw;
 }
 .totalParagraphs {
-    background-color: #9e9d24;
+    background-color: #dddd88;
     border: solid black 3px;
-    border-radius: 1.2%;
+    border-radius: 7pt;
     font-size: 1.1em;
 }
 .navItems {
@@ -38,17 +38,17 @@ body{
     align-items: center;
 }
 .sideBars {
-    background-color: #AD9EFA;
+    background-color: #ccccff;
     width: 80vw;
     border: solid black 3px;
-    border-radius: 1.8%;
+    border-radius: 7pt;
     font-size: 1.09em;
 }
 .footer {
     border: solid black 4px;
-    border-radius: 1.9%;
+    border-radius: 7pt;
     height: 15vh;
-    background-color: #FFEE99;
+    background-color: #ffeebb;
     font-size: 1.09em;
 }
 
